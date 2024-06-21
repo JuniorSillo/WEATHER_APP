@@ -10,8 +10,8 @@ Welcome to the Weather App! This simple web application allows you to check the 
 - **Search Functionality**: Quickly find weather information for different locations.
 
 ## Screenshots
-![Uploading Screenshot 2024-06-21 at 14.21.16.png…]()
-![Uploading Screenshot 2024-06-21 at 14.26.45.png…]()
+![Screenshot 2024-06-21 at 14 26 45](https://github.com/JuniorSillo/WEATHER_APP/assets/123242158/476d3c82-26a3-4048-ae29-ce89b844003c)
+
 
 
 ## Demo
