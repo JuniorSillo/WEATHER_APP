@@ -16,7 +16,7 @@ Welcome to the Weather App! This simple web application allows you to check the 
 
 ## Demo
 
-You can check out the live demo [here]([http://127.0.0.1:5500/index.html](https://weather-app-neon-pi-29.vercel.app/)).
+You can check out the live demo (https://weather-app-neon-pi-29.vercel.app/).
 
 ## Installation
 
